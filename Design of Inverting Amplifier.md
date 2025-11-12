@@ -18,17 +18,14 @@ phase shift of 180ο.
 
 The circuit closed-loop voltage gain is Avcl= -RF / R1
 
- ## MODEL GRAPH:
-
- Paste your model graph from observation
 
  ## CIRCUIT DIAGRAM:
 
  paste your circuit diagram
 
- ## TABULATION:
+ ## MODEL GRAPH:
 
- paste your tabulation 
+ Paste your model graph from observation
 
  ## DESIGN: 
 ~~~
@@ -47,6 +44,19 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 5. Calculate the practical Voltage for different value of V1& compare it with theoretical output.  
 6. Practical gain & theoretical voltage should be approximately equal.  
 7. Plot the graph of the input wave versus output wave for any one practical case.
+
+   
+## TABULATION:
+
+ paste your tabulation 
+
+## CALCULATIONS:
+
+ 
+
+## GRAPH:
+
+
 
 ## RESULT:
 Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741. 
