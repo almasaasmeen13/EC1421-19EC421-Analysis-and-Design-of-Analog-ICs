@@ -29,12 +29,13 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-23 at 14 11 46_1815a635](https://github.com/user-attachments/assets/5a1fa0d0-ca3a-4366-b8a0-f39869d760c0)
 
- paste your circuit diagram
+ 
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-23 at 14 12 07_6aba4dd0](https://github.com/user-attachments/assets/9d0cd04e-f8d6-4052-ba76-dc69a906a122)
 
- Paste your model graph from observation
 
 ## PROCEDURE:
  
@@ -48,16 +49,13 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
    
 ## TABULATION:
-
- paste your tabulation 
+![WhatsApp Image 2025-11-23 at 14 12 48_4b254204](https://github.com/user-attachments/assets/9f2cc9b1-f944-4b5c-a3a7-4983b7448580)
 
 ## CALCULATIONS:
-
- 
+![WhatsApp Image 2025-11-23 at 14 13 12_ecb7e0ea](https://github.com/user-attachments/assets/35994aed-0d65-4c3c-a528-109015ad1d5e)
 
 ## GRAPH:
-
-
+![WhatsApp Image 2025-11-23 at 14 13 41_8cedee20](https://github.com/user-attachments/assets/cb666a02-326d-4a3d-8a70-ae465330c5f7)
 
 ## RESULT:
 Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741. 
