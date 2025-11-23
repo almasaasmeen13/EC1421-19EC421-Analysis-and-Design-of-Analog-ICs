@@ -11,7 +11,7 @@ IC741.
 <img width="634" height="166" alt="image" src="https://github.com/user-attachments/assets/e7f51b72-b143-4728-9c65-6b9d447201cf" />
 
 
-## THEORY
+## THEORY :
 ## INSTRUMENTATION AMPLIFIER
 
 An instrumentation amplifier is the intermediate stage of a instrumentation system. The 
@@ -29,8 +29,12 @@ performance.
                                                          
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
 ## CIRCUIT DIAGRAM: 
+![WhatsApp Image 2025-11-23 at 13 57 57_b89c6a8e](https://github.com/user-attachments/assets/079fc376-5b53-46f8-8141-3681bf8c94d2)
+
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-23 at 13 58 26_e78cae0d](https://github.com/user-attachments/assets/1a09cc0a-6b1a-42b0-b3af-45b6c8fab006)
+
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -47,10 +51,16 @@ input value of V1 and V2.
 waveforms are plotted in a graph sheet.
 
 ## TABULATION:
+![WhatsApp Image 2025-11-23 at 13 59 01_c654612a](https://github.com/user-attachments/assets/28f7db33-0643-41df-9362-c04ad894843f)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-23 at 13 59 19_504ba0a9](https://github.com/user-attachments/assets/29a025aa-0876-4125-8329-d7294349994e)
+![WhatsApp Image 2025-11-23 at 13 59 38_c4b7e45b](https://github.com/user-attachments/assets/e1e35e89-1446-435c-a73d-5768c95ce620)
+
 
 ## GRAPH:
+![WhatsApp Image 2025-11-23 at 14 04 19_832e2309](https://github.com/user-attachments/assets/a4ba3996-5185-4b7a-bd38-200208b51c7e)
+
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
