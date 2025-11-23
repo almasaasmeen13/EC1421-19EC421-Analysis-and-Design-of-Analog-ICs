@@ -12,7 +12,7 @@ iii) Band pass filter
 
 <img width="625" height="170" alt="image" src="https://github.com/user-attachments/assets/900fc8b3-3a8c-4208-bf52-98cc9e281e21" />
 
-## THEORY
+## THEORY :
 ## LOW PASS FILTER 
  A LPF allows frequencies from 0 to higher cut of frequency, fH.  At fH the gain is 0.707 
 Amax, and after fH gain decreases at a constant rate with an increase in frequency.  The gain 
@@ -35,14 +35,25 @@ pass filter can be formed by simply cascading high-pass and low-pass sections.  
 band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+## LOW_PASS:
+![WhatsApp Image 2025-11-23 at 14 24 27_dd566e4b](https://github.com/user-attachments/assets/5b312cdc-2f73-493c-bad7-2bdbeb343735)
+
+## HIGH-PASS :
+![WhatsApp Image 2025-11-23 at 14 24 48_e66269d6](https://github.com/user-attachments/assets/e9d31d3c-a5be-49e3-a3da-4ccab2c093e2)
+
+## BAND-PASS :
+![WhatsApp Image 2025-11-23 at 14 25 12_0dca2c7d](https://github.com/user-attachments/assets/fd6214e5-d618-4d4b-889a-4ddb7067c70c)
 
 ## MODEL GRAPH:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+## LOW_PASS :
+![WhatsApp Image 2025-11-23 at 14 25 47_74bd4f62](https://github.com/user-attachments/assets/56d4a980-d310-4a63-a211-e24212ee4fb8)
+
+## HIGH-PASS :
+![WhatsApp Image 2025-11-23 at 14 26 11_3ae9f3c4](https://github.com/user-attachments/assets/98b69b0e-9831-4de9-9356-0c0cac494d38)
+
+## BAND-PASS :
+![WhatsApp Image 2025-11-23 at 14 26 34_a83b0a6f](https://github.com/user-attachments/assets/76c1501e-90cc-4dac-a5d5-c4593f257029)
+
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
@@ -84,20 +95,35 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                 Ri = Rf 
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+## LOW_PASS :
+![WhatsApp Image 2025-11-23 at 14 27 20_6fda77af](https://github.com/user-attachments/assets/3aca9e80-753d-4484-bbca-583c661e046e)
+
+## HIGH-PASS :
+![WhatsApp Image 2025-11-23 at 14 27 39_0d33082b](https://github.com/user-attachments/assets/d1cc7a0a-5caf-4247-90f1-1df49510593f)
+
+## BAND-PASS :
+![WhatsApp Image 2025-11-23 at 14 28 25_1f8f91bb](https://github.com/user-attachments/assets/8f91de4f-fc2b-4c07-911f-9d88524a0df0)
+
 ## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+## LOW_PASS :
+![WhatsApp Image 2025-11-23 at 14 29 25_27eee8d5](https://github.com/user-attachments/assets/6639a2a4-dee1-4cac-9252-39d705166132)
+
+## HIGH-PASS :
+![WhatsApp Image 2025-11-23 at 14 29 44_255a1abe](https://github.com/user-attachments/assets/7ceceb79-c26f-4b43-b06c-6b625adbe5bf)
+
+## BAND-PASS :
+![WhatsApp Image 2025-11-23 at 14 30 05_90edce7b](https://github.com/user-attachments/assets/5ab5581c-904c-4205-8a58-f5b296bab715)
+
 ## GRAPH:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+## LOW_PASS :
+![WhatsApp Image 2025-11-23 at 14 30 54_55dac517](https://github.com/user-attachments/assets/e317815f-480f-4f47-9a31-4f1d3fd2034d)
+
+## HIGH-PASS :
+![WhatsApp Image 2025-11-23 at 14 31 33_ed6f49da](https://github.com/user-attachments/assets/8a9b56a4-9818-463f-847c-f1eb51370f94)
+
+## BAND-PASS :
+![WhatsApp Image 2025-11-23 at 14 31 58_5a22f14f](https://github.com/user-attachments/assets/ee7ea6fd-ef65-47dc-ac6c-380bfac14b9c)
+
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
 tested using op-amp IC 741. 
